@@ -48,3 +48,7 @@ button {
   transform: scale(1.1);
   transition: 600ms;
 }
+
+input {
+  outline: none;
+}
